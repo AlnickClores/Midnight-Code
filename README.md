@@ -2,6 +2,8 @@
 
 A sleek, dark blue VS Code theme designed for a focused and visually comfortable coding experience, perfect for late-night sessions.
 
+🚧 **Note:** This theme is still under development. Expect updates and improvements in future versions! 🚧
+
 ## Installation
 
 1. Open **Visual Studio Code**.
@@ -16,4 +18,6 @@ A sleek, dark blue VS Code theme designed for a focused and visually comfortable
 - Optimized syntax highlighting for clarity.
 - Perfect for night-time coding.
 
-**Enjoy!**
+## Screenshot
+
+![Midnight Code Theme](assets/screenshot.png)

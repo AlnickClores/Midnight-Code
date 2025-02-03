@@ -1,0 +1,32 @@
+{
+  "name": "midnight-coding-theme",
+  "displayName": "Midnight Coding Theme",
+  "description": "A dark blue theme that brings a calm, focused atmosphere to your coding experience.",
+  "version": "0.0.1",
+  "publisher": "Knotz",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlnickClores/Midnight-Code"
+  },
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "Midnight Code",
+    "Dark Blue",
+    "Knotz",
+    "Dark"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Midnight Code",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Midnight Code-color-theme.json"
+      }
+    ]
+  }
+}
